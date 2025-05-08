@@ -1,0 +1,1 @@
+test1.assertEqual(answer(input_a, input_b), (3, 4))
